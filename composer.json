@@ -10,7 +10,7 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "php": "^7.0",
+        "php": "^8.0.2",
         "ramsey/uuid": "^3.7"
     },
     "autoload": {
