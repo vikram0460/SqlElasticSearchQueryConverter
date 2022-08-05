@@ -17,7 +17,7 @@ TO
 # Installation
 
 ```console
-$ composer require santik/sql-elasticsearch-query-converter
+$ composer require vikram0460/sql-elasticsearch-query-converter
 ```
 # Usage
 
