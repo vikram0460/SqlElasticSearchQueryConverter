@@ -6,7 +6,12 @@
         {
             "name": "Alexander Fedortets",
             "email": "fedorets.alex@gmail.com"
-        }
+        }, 
+        {
+			"name" : "Vontary Vikram Reddy",
+			"email" : "vontaryvikramreddy@gmail.com",
+			"homepage" : "http://phptechworld.blogspot.com/"
+		}
     ],
     "minimum-stability": "stable",
     "require": {
