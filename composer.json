@@ -1,5 +1,5 @@
 {
-    "name": "santik/sql-elasticsearch-query-converter",
+    "name": "vikram0460/sql-elasticsearch-query-converter",
     "description": "Library for converting AND OR SQL like query to Elastic Search query",
     "license": "proprietary",
     "authors": [
