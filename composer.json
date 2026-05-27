@@ -1,17 +1,22 @@
 {
-    "name": "santik/sql-elasticsearch-query-converter",
+    "name": "vikram0460/sql-elasticsearch-query-converter",
     "description": "Library for converting AND OR SQL like query to Elastic Search query",
     "license": "proprietary",
     "authors": [
         {
             "name": "Alexander Fedortets",
             "email": "fedorets.alex@gmail.com"
-        }
+        }, 
+        {
+			"name" : "Vontary Vikram Reddy",
+			"email" : "vontaryvikramreddy@gmail.com",
+			"homepage" : "http://phptechworld.blogspot.com/"
+		}
     ],
     "minimum-stability": "stable",
     "require": {
-        "php": "^8.0.2",
-        "ramsey/uuid": "^3.7"
+        "php": "^8.2",
+        "ramsey/uuid": "^4.0"
     },
     "autoload": {
         "psr-4": {
