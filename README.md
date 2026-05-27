@@ -17,7 +17,7 @@ TO
 # Installation
 
 ```console
-$ composer require vikram0460/sql-elasticsearch-query-converter:"dev-L12"
+$ composer require vikram0460/sql-elasticsearch-query-converter
 ```
 # Usage
 
